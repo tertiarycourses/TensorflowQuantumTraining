@@ -1,5 +1,5 @@
 # Python GUI Development with Tkinter Training
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Quantum Machine Learning with Tensorflow Quantum](https://www.tertiarycourses.com.sg/quantum-machine-learning-tensorflow-quantum.html) course. 
 
